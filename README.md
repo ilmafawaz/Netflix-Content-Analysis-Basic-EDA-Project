@@ -8,7 +8,7 @@ The Goals here are to:
 - Highlight key insights
 
 The dataset used in this project is:
-netflix_titles.csv
+netflix_titles.csv [can be downloaded from kaggle]
 
 It includes:
 Type (Movie/TV Show), Title, Director & Cast, Country, Release year, Rating, Duration, Listed categories, Description
