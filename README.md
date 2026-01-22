@@ -13,7 +13,7 @@ netflix_titles.csv [can be downloaded from kaggle]
 It includes:
 Type (Movie/TV Show), Title, Director & Cast, Country, Release year, Rating, Duration, Listed categories, Description
 
-Technologies Used
+Tools Used
 Python
 Pandas
 NumPy
